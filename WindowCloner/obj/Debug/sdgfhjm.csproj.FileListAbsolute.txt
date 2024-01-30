@@ -1,0 +1,8 @@
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\obj\Debug\sdgfhjm.csprojResolveAssemblyReference.cache
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\obj\Debug\sdgfhjm.csproj.GenerateResource.Cache
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\obj\Debug\AlienWare.MainForm.resources
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\bin\Debug\AlienWare.exe.config
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\bin\Debug\AlienWare.exe
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\bin\Debug\AlienWare.pdb
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\obj\Debug\AlienWare.exe
+C:\Users\karni\OneDrive\Dokumenty\SharpDevelop Projects\sdgfhjm\sdgfhjm\obj\Debug\AlienWare.pdb
